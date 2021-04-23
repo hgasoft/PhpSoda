@@ -30,7 +30,7 @@ class UrlQuery
     /**
      * The default protocol the Soda API expects
      */
-    const DEFAULT_PROTOCOL = "https";
+    const DEFAULT_PROTOCOL = "http";
 
     /**
      * The API endpoint that will be used in all requests
